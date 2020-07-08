@@ -1,2 +1,3 @@
-##Self Portrait
-![]Desktop/selfPortrait.png
+## Self Portrait
+
+![](Desktop/selfPortrait.png)
