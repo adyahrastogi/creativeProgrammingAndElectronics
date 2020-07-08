@@ -1,3 +1,3 @@
 ## Self Portrait
 
-![](Desktop/selfPortrait.png)
+![](July 8/selfPortrait.png)
