@@ -4,6 +4,7 @@ For my game, I was inspired by mobile games like Color Road, Flappy Bird, and so
 
 **Credits:** 
 I used [Freepik's](https://www.flaticon.com/authors/freepik) boat image
+
 I also used Mark Simonson's [Atari Font](https://www.fontspace.com/atari-classic-font-f30342), which is based on the Atari 8-bit character set that is seen in many older games (and some modern games).
 Description: You are a sailor trying to get through a very long river! 
  The river slowly speeds up and you must make sure not to crash!
