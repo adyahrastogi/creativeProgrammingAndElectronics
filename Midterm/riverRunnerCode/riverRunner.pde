@@ -102,8 +102,8 @@ void score() {
 
 /*
   Displays first screen seen
- Shows the instructions 
- Prompts the user to press TAB to continue
+  Shows the instructions 
+  Prompts the user to press TAB to continue
  */
 void instructionScreen() {
   background(180, 222, 210);
@@ -166,7 +166,7 @@ void keepRiverFlowing() {
 
 /*
   Draws the boat; moves as the x value (boatCorner) changes through user input
- Speeds up the movement of the boat as the river speeds up
+  Speeds up the movement of the boat as the river speeds up
  */
 void updateBoat() {
   //transparency of image
@@ -191,8 +191,8 @@ void updateBoat() {
 }
 
 /*  
- Stores the x value of the left edge of the river 
- Checks if the boat has crashed into an edge of the river
+  Stores the x value of the left edge of the river 
+  Checks if the boat has crashed into an edge of the river
  */
 void riverBoundaries() {
   riverBoundary = riverPosition.get(435);   
