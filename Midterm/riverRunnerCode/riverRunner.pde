@@ -40,7 +40,7 @@ SoundFile startSound;
 SoundFile riverSound;
 
 /*
-  loads images and sounds
+  Loads images and sounds
  */
 void setup() {
   size(500, 500);
@@ -226,7 +226,7 @@ void crashedScreen() {
 
 /*
   Keeps track of the left and right movement of the boat based on user input
- Restarts the game once the user has crashed and pressed TAB
+  Restarts the game once the user has crashed and pressed TAB
  */
 void keyPressed() {
   if (key == CODED) {
