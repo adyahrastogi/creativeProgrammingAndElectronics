@@ -1,3 +1,3 @@
 ## River Runner
-![] (riverRunner.gif)
+![Game Demo](riverRunnerGif.gif)
 
