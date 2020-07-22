@@ -1,6 +1,12 @@
 ## Arduino Exploration
 
-[!] (schematic.jpg)
+**Bread Board and Arduino**
+
+![](breadBoardArduino.png)
+
+![](breadBoardArduino22.jpg)
+**Schematic**
+![](schematic.jpg)
 
 **Description**
 
