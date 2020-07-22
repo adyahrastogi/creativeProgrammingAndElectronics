@@ -6,7 +6,7 @@
 
 ![](breadBoardArduino22.jpg)
 **Schematic**
-![](schematic.jpg)
+![](schematic22.jpg)
 
 **Description**
 
