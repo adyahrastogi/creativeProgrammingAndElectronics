@@ -2,12 +2,12 @@
 
 **Schematic**
 
-![] (july27Schematic.jpeg)
+![](july27Schematic.jpeg)
 
 **Instrument**
 
-![] (arduinoJuly27.png)
+![](arduinoJuly27.png)
 
 **Close Up**
 
-![] (closeUpJuly27.jpg)
+![](closeUpJuly27.jpg)
