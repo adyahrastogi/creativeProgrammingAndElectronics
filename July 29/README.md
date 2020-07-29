@@ -14,6 +14,8 @@ As I started, I tried to just update the position using the inByte values, but t
 
 **Schematic**
 
+![](schematicJuly29.jpeg)
+
 **Pictures**
 
 ![](playingJuly29.jpg)
