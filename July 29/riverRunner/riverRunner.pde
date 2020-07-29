@@ -13,7 +13,6 @@ import processing.serial.*;
 Serial arduinoPort;  //serial port of arduino
 float inByte = 0;
 
-float previousInByte;
 //keeps track of if the boat should move left or right, based on potentiometer's starting value
 float initialPotVal;
 //for Perlin noise
