@@ -13,3 +13,7 @@ As I started, I tried to just update the position using the inByte values, but t
 **Schematic**
 
 **Pictures**
+
+![](playingJUly29.jpg)
+
+![](arduinoJuly29.jpg)
