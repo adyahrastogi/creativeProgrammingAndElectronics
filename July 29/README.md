@@ -12,6 +12,8 @@ I largely referenced Arduino's Graph example (Communications -> Graph) for this 
 
 As I started, I tried to just update the position using the inByte values, but the boat would crash in the beginning of each game. This was an error due to the fact that the inByte value in my game doesn't actually represent the location of the boat, but the *increment* by which it moves. Another thing I had to figure out was how to keep track of when the boat should be moving left or right; every time the game is restarted, the user's potentiometer will read different values, making it impossible to use a set value as the position to tell that: "Oh, if the inByte value is smaller than X value, the boat should move left" and the same for moving right with inByte being larger than X. To counter this, I kept track of the initial position of the potentiometer every new round of the game, making it a sort of origin, with any number of inByte being smaller than the initial position meaning that the boat would move left, and the opposite for moving right. 
 
+Another issue was making sure that during the game, the user doesn't run into the issue where they can no longer move left or right because the potentiometer can only move so much. For this problem, in the loading/instructions screen, I made a note saying that the user should make sure the arrow of the potentiometer is around the middle of the potentiometer's range before starting the game.
+
 **Schematic**
 
 ![](schematicJuly29.jpeg)
