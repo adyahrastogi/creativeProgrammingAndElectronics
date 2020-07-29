@@ -4,10 +4,10 @@
  
  Description: You are a sailor trying to get through a very long river! 
  The river slowly speeds up and you must make sure not to crash!
- Use the left and right arrow keys to navigate the river.
+ Use the potentiometer to navigate the river.
  */
 import processing.sound.*;
-import processing.serial.*;
+import processing.seri  al.*;
 
 
 Serial arduinoPort;  //serial port of arduino
