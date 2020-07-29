@@ -7,7 +7,7 @@
  Use the potentiometer to navigate the river.
  */
 import processing.sound.*;
-import processing.seri  al.*;
+import processing.serial.*;
 
 
 Serial arduinoPort;  //serial port of arduino
