@@ -14,6 +14,6 @@ As I started, I tried to just update the position using the inByte values, but t
 
 **Pictures**
 
-![](playingJUly29.jpg)
+![](playingJuly29.jpg)
 
 ![](arduinoJuly29.jpg)
