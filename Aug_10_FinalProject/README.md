@@ -10,4 +10,4 @@ I would like to implement the button to make the program so that when the button
 
 Here's what the results look like currently (2 different runs):
 
-<img src="treePic1.png" width=500 align=center> <img src="treePic2.png" width=500>
+<img src="treePic1.png" width=500 align=center> <img src="treePic2.png" width=500 align=center>
