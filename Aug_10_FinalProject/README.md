@@ -11,5 +11,6 @@ I would like to implement the button to make the program so that when the button
 Here's what the results look like currently (2 different runs):
 
 ![](treePic1.png)
-
+<img src="treePic1.png" width=300 align=center>
 ![](treePic2.png)
+<img src="treePic2.png" width=300 align=center>
