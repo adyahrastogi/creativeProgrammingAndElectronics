@@ -7,3 +7,9 @@ So far, I have completed almost all of what I wanted my final project to be. In 
 **What's left:**
 
 I would like to implement the button to make the program so that when the button is pressed, the "normal circumstances" for the tree to grow are used to grow the tree, rather than the arduino input. When the button is pressed again, the arduino input should be considered while growing the tree. Another thing I wanted to implement is making several trees. I would like to make three trees side by side, the first one with pink flowers, second with blue flowers, and third with yellow flowers. I am not sure if I should make the trees grow at the same time (with the same input from arduino so that they will grow in similar ways), one after the other, or a combination of both, where the second tree starts to grow a few seconds after the first, and same with the third tree.
+
+Here's what the results look like currently (2 different runs):
+
+![](treePic1.png)
+
+![](treePic2.png)
