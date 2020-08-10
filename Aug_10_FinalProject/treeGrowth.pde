@@ -38,7 +38,7 @@ void draw() {
       line(currentBranch.x1, currentBranch.y1, currentBranch.x2, currentBranch.y2);
     }
     for (int j = 0; j < currentBranchLayer.size(); j++) {
-      float lightRandom = random(0.1,1.0);
+      float lightRandom = random(0.1, 1.0);
       if (light*lightRandom > 100/(iteration+1)) {
 
         Branch currentBranch = currentBranchLayer.get(j);
