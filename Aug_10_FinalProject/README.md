@@ -10,6 +10,6 @@ I would like to implement the button to make the program so that when the button
 
 Here's what the results look like currently (2 different runs):
 
-![](treePic1.png)
+![](treePic1.png = 200x200)
 
-![](treePic2.png)
+![](treePic2.png = 200x200)
